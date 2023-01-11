@@ -9,15 +9,15 @@ DISTORTION DS-1 50:100
 e -
 b -
 g - - - o- - - o-
-d - -gb- - -a-
-a -b- - - - d
+d - -gb- - --a-
+a -b- - - - d--
 e - 
 
 e -
 b -
 g - - - 
 d -gb^3-a^3-
-a -b^3- -d^3-
+a -b^3- d^3-
 e - 
 
 
